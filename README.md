@@ -30,6 +30,10 @@
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -55,43 +59,36 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joswinfich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=joswinfich&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
   <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joswinfich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
 
 ###
 
-<div align="center">
-  <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
-</div>
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
 
 ###
 
-<div align="center">
-  <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
-</div>
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
 
 ###
 
-<div align="center">
-  <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
-</div>
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
 
 ###
