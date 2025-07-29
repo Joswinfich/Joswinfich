@@ -77,10 +77,6 @@
 
 ###
 
-<img align="right" height="94" src="https://magneticdogz.neocities.org/media/graphics/glitter/shadow2.gif"  />
-
-###
-
 <div align="left">
   <img height="78" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
 </div>
@@ -100,5 +96,11 @@
 ###
 
 <img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
+
+###
+
+<div align="center">
+  <img height="30" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
+</div>
 
 ###
