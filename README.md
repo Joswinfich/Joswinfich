@@ -1,16 +1,12 @@
-<h3 align="left">Joswinfich 07/28/17(Mon)10:07:20 No.17762007</h3>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="100" src="https://i.imgur.com/x8HBHLQ.png"  />
 </div>
 
 ###
 
-<br clear="both">
+<h3 align="left">Joswinfich 07/28/17(Mon)10:07:20 No.17762007</h3>
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
@@ -38,15 +34,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img height="25" src="https://external-media.spacehey.net/media/sOxBu9YzENXClg99Zqod8IqGm-p8LFmptix0gY2O4vVA=/https://files.catbox.moe/5lhkkj.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="@joswinfich" target="_blank">
@@ -62,35 +54,29 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joswinfich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
