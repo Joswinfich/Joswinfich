@@ -83,11 +83,29 @@
 
 ###
 
-<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/bob.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
+
+###
+
+<div align="left">
+  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
+</div>
+
+###
+
+<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+
+###
+
+<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
 
 ###
 
@@ -95,24 +113,6 @@
 
 ###
 
-<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
-
-###
-
-<div align="center">
-  <img height="30" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
-</div>
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/webmaster.gif"  />
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
+<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
 
 ###
