@@ -9,12 +9,6 @@
 ###
 
 <div align="left">
-  <img height="64" src="https://i.imgur.com/JKDZH48.gif"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
@@ -45,7 +39,7 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
+  <img height="64" src="https://i.imgur.com/JKDZH48.gif"  />
 </div>
 
 ###
@@ -57,7 +51,7 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
+  <img height="78" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
 </div>
 
 ###
@@ -77,7 +71,7 @@
 ###
 
 <div align="left">
-  <img height="78" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
+  <img height="100" src="https://i.imgur.com/3M19qW7.gif"  />
 </div>
 
 ###
@@ -89,11 +83,13 @@
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
+<div align="left">
+  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
+</div>
 
 ###
 
-<img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
+<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
 
 ###
 
@@ -101,7 +97,11 @@
 
 ###
 
-<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
+
+###
+
+<img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
 
 ###
 
@@ -113,19 +113,11 @@
 
 ###
 
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
-
-###
-
 <img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
 
 ###
 
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/anibanner.gif"  />
-
-###
-
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/disaster.gif"  />
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
 
 ###
 
@@ -133,11 +125,15 @@
 
 ###
 
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/anibanner.gif"  />
+
+###
+
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/fckgoogle.gif"  />
 
 ###
 
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/doombut.gif"  />
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/disaster.gif"  />
 
 ###
 
@@ -145,7 +141,7 @@
 
 ###
 
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pyroani.gif"  />
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/doombut.gif"  />
 
 ###
 
@@ -153,11 +149,15 @@
 
 ###
 
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/rumia.gif"  />
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pyroani.gif"  />
 
 ###
 
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/phone.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/rumia.gif"  />
 
 ###
 
