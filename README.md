@@ -65,6 +65,10 @@
 
 ###
 
+<img align="right" height="154" src="https://magneticdogz.neocities.org/media/graphics/glitter/shadow2.gif"  />
+
+###
+
 <div align="left">
   <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
 </div>
@@ -77,7 +81,9 @@
 
 ###
 
-<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
+<div align="right">
+  <img height="200" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
+</div>
 
 ###
 
@@ -85,10 +91,14 @@
 
 ###
 
-<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
 
 ###
 
 <img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
+
+###
+
+<img align="right" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
 
 ###
