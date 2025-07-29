@@ -63,7 +63,7 @@
   <a href="joswinfich@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="21" alt="gmail logo"  />
   </a>
-  <a href="https://tryhackme.com/p/joswinfich" target="_blank">
+  <a href="https://tryhackme.com/p/JoshBigMan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="21" alt="tryhackme logo"  />
   </a>
 </div>
