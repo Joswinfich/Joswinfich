@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="141" src="https://i.imgur.com/JKDZH48.gif"  />
+  <img height="76" src="https://i.imgur.com/x8HBHLQ.png"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
+  <img height="57" src="https://i.imgur.com/JKDZH48.gif"  />
 </div>
 
 ###
@@ -70,10 +70,6 @@
 
 ###
 
-<img align="left" height="76" src="https://i.imgur.com/x8HBHLQ.png"  />
-
-###
-
 <div align="left">
   <img height="78" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
 </div>
@@ -87,11 +83,9 @@
 
 ###
 
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
-
-###
-
-<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+<div align="left">
+  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
+</div>
 
 ###
 
@@ -99,15 +93,7 @@
 
 ###
 
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/bob.gif"  />
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
+<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
 
 ###
 
@@ -116,6 +102,22 @@
 ###
 
 <img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/bob.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
 
 ###
 
@@ -147,6 +149,10 @@
 
 ###
 
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pothead.gif"  />
+
+###
+
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/roxasbox.gif"  />
 
 ###
@@ -164,9 +170,5 @@
 ###
 
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/trashparadise.gif"  />
-
-###
-
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pothead.gif"  />
 
 ###
