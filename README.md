@@ -104,3 +104,15 @@
 </div>
 
 ###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/webmaster.gif"  />
+
+###
+
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
+
+###
