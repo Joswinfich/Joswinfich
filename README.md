@@ -1,10 +1,16 @@
 <div align="center">
-  <img height="100" src="https://i.imgur.com/x8HBHLQ.png"  />
+  <img height="141" src="https://i.imgur.com/JKDZH48.gif"  />
 </div>
 
 ###
 
 <h3 align="left">Joswinfich 07/28/17(Mon)10:07:20 No.17762007</h3>
+
+###
+
+<div align="left">
+  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
+</div>
 
 ###
 
@@ -39,6 +45,12 @@
 ###
 
 <div align="left">
+  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
+</div>
+
+###
+
+<div align="left">
   <img height="25" src="https://external-media.spacehey.net/media/sOxBu9YzENXClg99Zqod8IqGm-p8LFmptix0gY2O4vVA=/https://files.catbox.moe/5lhkkj.gif"  />
 </div>
 
@@ -58,22 +70,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joswinfich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=joswinfich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/anime5.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
-</div>
+<img align="left" height="76" src="https://i.imgur.com/x8HBHLQ.png"  />
 
 ###
 
@@ -83,7 +80,22 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joswinfich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joswinfich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+</div>
+
+###
+
 <img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/arizona.gif"  />
+
+###
+
+<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+
+###
+
+<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
 
 ###
 
@@ -95,24 +107,66 @@
 
 ###
 
-<div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
-</div>
+<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
+<img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
+<img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/anibanner.gif"  />
 
 ###
 
-<img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/disaster.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/amd_now.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/fckgoogle.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/doombut.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/ezgif2.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pyroani.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/roxasbox.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/rumia.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/phone.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/top_mill_ban.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/trashparadise.gif"  />
+
+###
+
+<img align="left" height="50" src="https://cyber.dabamos.de/88x31/pothead.gif"  />
 
 ###
