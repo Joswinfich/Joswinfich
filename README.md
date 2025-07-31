@@ -51,19 +51,13 @@
 ###
 
 <div align="left">
-  <img height="78" src="https://magneticdogz.neocities.org/media/graphics/banners/lain.gif"  />
-</div>
-
-###
-
-<div align="left">
   <a href="@joswinfich" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="21" alt="discord logo"  />
   </a>
   <a href="joswinfich@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="21" alt="gmail logo"  />
   </a>
-  <a href="https://tryhackme.com/p/JoshBigMan" target="_blank">
+  <a href="https://tryhackme.com/p/joswinfich" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="21" alt="tryhackme logo"  />
   </a>
 </div>
@@ -83,25 +77,11 @@
 
 ###
 
-<div align="left">
-  <img height="50" src="https://magneticdogz.neocities.org/media/graphics/banners/games3.gif"  />
-</div>
-
-###
-
-<img align="left" height="30" src="https://magneticdogz.neocities.org/media/graphics/blinkies/invaderzim3.gif"  />
-
-###
-
 <img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/back.gif"  />
 
 ###
 
 <img align="left" height="25" src="https://magneticdogz.neocities.org/media/graphics/blinkies/sameasiteverwas.gif"  />
-
-###
-
-<img align="left" height="26" src="https://magneticdogz.neocities.org/media/graphics/blinkies/adult.gif"  />
 
 ###
 
@@ -113,23 +93,7 @@
 
 ###
 
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/nft.gif"  />
-
-###
-
-<img align="left" height="50" src="https://magneticdogz.neocities.org/media/graphics/buttons/piracy.gif"  />
-
-###
-
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/amd_now.gif"  />
-
-###
-
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/anibanner.gif"  />
-
-###
-
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/fckgoogle.gif"  />
 
 ###
 
@@ -158,9 +122,5 @@
 ###
 
 <img align="left" height="50" src="https://cyber.dabamos.de/88x31/rumia.gif"  />
-
-###
-
-<img align="left" height="50" src="https://cyber.dabamos.de/88x31/top_mill_ban.gif"  />
 
 ###
